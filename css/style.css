@@ -946,4 +946,33 @@ input[type=radio] {
   transform: translateY(-80px);
 }
 
-/* end */
+
+#DetailsEverest {
+  font-family: var(--ff-montserrat);
+  font-size: var(--fs-links-btns);
+  font-weight: 700;
+  padding: 13px 50px;
+  background: #fc036b;
+  border-radius: 30px;
+  color: whitesmoke;
+}
+
+#DetailsAndaman {
+  font-family: var(--ff-montserrat);
+  font-size: var(--fs-links-btns);
+  font-weight: 700;
+  padding: 13px 50px;
+  background: #fc036b;
+  border-radius: 30px;
+  color: whitesmoke;
+}
+
+#DetailsHoliday {
+  font-family: var(--ff-montserrat);
+  font-size: var(--fs-links-btns);
+  font-weight: 700;
+  padding: 13px 50px;
+  background: #fc036b;
+  border-radius: 30px;
+  color: whitesmoke;
+}
