@@ -22,3 +22,4 @@ document.getElementById("DetailsHoliday").addEventListener("click", function() {
 document.getElementById("DetailsAndaman").addEventListener("click", function() {
     var newPage = window.open("Andaman.html", "_blank");
 });
+
